@@ -1,4 +1,4 @@
-function x(y) {
+        function x(y) {
   console.log("Inside function x");
   y();
 }
